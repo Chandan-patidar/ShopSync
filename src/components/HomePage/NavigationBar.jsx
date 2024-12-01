@@ -81,6 +81,7 @@ const NavigationBar = () => {
         {/* <img className="h-7 w-9" src="" /> */}
         <span className={`mx-auto text-2xl font-black leading-none ${isExpanded ? "text-4xl" : "text-sm"}  text-white select-none`}>
             ShopSync<span className="text-orange-600">.</span>
+            
           </span>
       </div>
 
